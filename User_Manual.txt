@@ -1,0 +1,12 @@
+Pre-requirement: NLTK,JUPYTER,Anaconda,python,keras
+1.Run jupyter notebook.
+2.Open directory where project is located.
+3.Run Working_Linear_SVC_model.ipynb.
+	Training the linear SVC model and then predicting the reviews using it.
+	All the graphs and results are plotted in the notebook itself.
+4.Run Feedforward_Network.py.
+	Implemented our own 2 layer FeedForward Network.	
+	Training the Feed Forward Network and then predicting the reviews using it.
+	All the graphs and results are plotted in the notebook itself.
+5.Run Feed_Forward.ipynb.
+6.Analyzing the results and based on these result draw conclusion whether which model is better.
